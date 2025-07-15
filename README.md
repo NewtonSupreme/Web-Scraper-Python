@@ -1,6 +1,6 @@
 # 🧠 Desarrollo de Aplicaciones Python para Extracción de Datos Web con Interfaz Gráfica
 
-Proyecto académico desarrollado por Leandro Márquez para la asignatura Programación V – Universidad Bicentenaria de Aragua (UBA).
+Proyecto académico desarrollado por Leandro Marquez
 
 Este repositorio contiene dos aplicaciones en Python que realizan scraping de datos desde sitios web públicos, presentando los resultados en interfaces gráficas modernas, con posibilidad de exportación a CSV. Ambos ejercicios están diseñados para simular escenarios reales en contextos de análisis de mercado y monitoreo de contenido.
 
