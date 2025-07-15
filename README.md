@@ -71,8 +71,9 @@ Este módulo simula la extracción de datos desde una tienda virtual de libros p
 - Librerías externas:
 
 #Instalación por consola:
-
+```bash
 pip install requests beautifulsoup4 pillow
+```
 🚀 Cómo Ejecutar
 Desde la terminal o entorno de desarrollo:
 ```bash
